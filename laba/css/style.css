@@ -1,0 +1,85 @@
+.hd
+{
+    background-color: #0a29dd!important;/* !important чтобы перекрыть boostrap стили*/
+}
+.wh
+{
+    color: white!important;
+}
+.au
+{
+    border: 2px solid white;
+}
+.au:hover
+{
+    background-color: aqua;
+    color: #0a29dd!important;
+    border: 2px solid white;
+}
+.cd
+{
+    background:  url("main.jpg") no-repeat 50% 0!important;
+    height: 600px!important;
+    width: 100%;
+}
+.h1-1
+{
+    font-family: "Comic Sans MS";
+    font-size: 60px;
+
+}
+.h1-2
+{
+    font-family: "Arial Black";
+    font-size: 60px;
+    color: black!important;
+    text-align: center;
+}
+.h1-3
+{
+    text-align: center;
+}
+.p-1
+{
+    text-align: right!important;
+    font-size: 20px;
+}
+.md
+{
+    width: 500px!important;
+    height: 400px!important;
+}
+.md-c
+{
+    width: 500px!important;
+    height: 500px!important;
+}
+.in-1
+{
+    margin-top: 25px;
+    width: 80%!important;
+    margin-left: 45px!important;
+
+}
+.csl-1
+{
+    position: absolute;
+    bottom: 15px;
+    right: 160px;
+}
+.csl-2
+{
+    position: absolute;
+    bottom: 15px;
+    right: 30px;
+}
+.csl-3
+{
+    position: absolute;
+    left: 80px;
+    top: 80px;
+}
+.al-1
+{
+    display: none;
+}
